@@ -1,0 +1,9 @@
+oi	hello
+minä	I
+huomenna tomorrow
+kiitos	thanks
+anteeksi	sorry
+sinä	you
+hän	she/he
+Maanantai	Monday	
+Tiistai	Tuesday

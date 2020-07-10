@@ -4,10 +4,10 @@ työhuone	office
 lastenhuone	kid_room
 olohuone	living_room
 kylpyhuone	bathroom
-vessa 	toilet
-eteinen	hallway
-vaatehoune	walk-in_closet
+vessa		toilet
+eteinen		hallway
+vaatehuone	walk_in_closet
 vierashuone	invited_room
-parveke	balcony
-terassi	terrace
-sauna	sauna
+parveke		balcony
+terassi		terrace
+sauna		sauna

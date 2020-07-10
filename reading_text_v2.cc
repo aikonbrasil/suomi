@@ -71,7 +71,7 @@ int main() {
 					randNumber--;
 				cout << endl;
 				cout << "In case you like to exit, write --> out" << endl;
-				cout << "what is the meaning of:  " << palabra[randNumber] << endl;
+				cout << "what is the meaning of: #### " << palabra[randNumber] << " ####"<< endl;
 				std::getline(std::cin, test2);
 				if (palabra[randNumber-1] == test2)
 					{
